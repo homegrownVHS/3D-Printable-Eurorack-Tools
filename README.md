@@ -8,7 +8,10 @@ Dummy Panel - 36 hp dummy panel to protect a not-full rack || https://cad.onshap
 
 EURO case sidepiece - print 2x of these for 6u desktop open case, compatible with DIY flexrack rails (https://github.com/justinkowski/flexrack-rails) || https://cad.onshape.com/documents/63c3b58dc7759c3f46c66189/w/95adfbd87b82a59c0610780a/e/7ce1adb016c7c1d40a474bfb
 
-Function Generator - 18 hp panel compatible with UDB1000 series function generator with room for 2x PJ398SM 3.5mm mono sockets (intended for generator input/output)
+Eurocase - print 2x of these for a 3u 76hp skiff, compatible with DIY flexrack rails (https://github.com/justinkowski/flexrack-rails) || https://cad.onshape.com/documents/f2f8cface16b87d8d7987ddc/w/4ad6538db1b71385347f6b76/e/bcbcdcef72e5217f9d263cb6
+https://cad.onshape.com/documents/2afb65e9dc7362067bb1b29f/w/50d0f3e04301961029f822b9/e/570cb118ae875493a93febac
 
-RECURBOY - 21 hp panel compatible with the cyberboy666 recurBOY DIY video sampler (https://github.com/cyberboy666/recurBOY) || https://cad.onshape.com/documents/a66a7f6e9f965bf64179b9e8/w/a0380b538b5a2c6115344714/e/4c7f9552fdd0bd2676706fe5
+Function Generator - 18 hp panel compatible with UDB1000 series function generator with room for 2x PJ398SM 3.5mm mono sockets (intended for generator input/output) || https://cad.onshape.com/documents/a66a7f6e9f965bf64179b9e8/w/a0380b538b5a2c6115344714/e/4c7f9552fdd0bd2676706fe5
+
+RECURBOY - 21 hp panel compatible with the cyberboy666 recurBOY DIY video sampler (https://github.com/cyberboy666/recurBOY) || https://cad.onshape.com/documents/e1be68df86a41a7a0f704562/w/1ca3accc3de095a5974e9d65/e/214551f2d26fd79a55477fab
 
